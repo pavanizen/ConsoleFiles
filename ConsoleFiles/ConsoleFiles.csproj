@@ -48,8 +48,6 @@
   <ItemGroup>
     <Compile Include="BinRAndBinW.cs" />
     <Compile Include="BufStreamApp.cs" />
-    <Compile Include="MemBinStreamApp.cs" />
-    <Compile Include="MemStreamApp.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="UsingFiles.cs" />
